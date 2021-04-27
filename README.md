@@ -1,2 +1,3 @@
 # hello-world
 my first repository 
+khadija is here , I love technology so , I like to learn new skills in it like programming langugae , create application and much more ......
